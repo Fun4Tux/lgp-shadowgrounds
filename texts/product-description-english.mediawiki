@@ -1,0 +1,94 @@
+==Preview==
+<p>Shadowgrounds is an epic sci-fi game that blends addictive oldschool gameplay and modern technology into one big, nasty alien-battling carnage festival.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Shadowgrounds is an epic sci-fi game that blends addictive oldschool gameplay and modern technology into one big, nasty alien-battling carnage festival. The game is played from a top-down third person perspective that gives you a better view of the battlefield and allows tactical use of weapons. New tactics become useful as your arsenal is upgraded to even more destructive weapons! <br /> <br /><strong>Upgrade your Weapons </strong><br />Shadowgrounds has an impressive weapon arsenal that lets you kick alien ass in many cool ways. But that's not all! Each weapon can be upgraded three times with powerful modifications! Unleash the flames of the flamethrower's fuel trap, cause mayhem with the grenade launcher's poison grenades, slash and dice the monsters with the laser rifle's pinpoint laser, and many more! <br /> <br /><strong>The Monsters will Freak You Out </strong><br />Keep your cool and enjoy the thrilling atmosphere. Realistic lighting creates detailed shadows that make you jump out of your skin. But the lighting and the flashlight also affect some aliens' behaviour. Take advantage of that and turn the tide of fear against the enemy. <br /> <br /><strong>Other features</strong></p>
+<ul>
+<li>Face enormous monsters in boss battles </li>
+<li>Destroy the environment and wreak havoc with your arsenal </li>
+<li>Visit many exciting locations, including a secret military base and the alien-infested colony of New Atlantis </li>
+<li>Fight side by side with your NPC allies against the massive alien hordes </li>
+<li>Check security cameras and computer logs to investigate alien origins </li>
+<li>Enjoy horrifying sound effects and a thrilling music soundtrack made exclusively for Shadowgrounds </li>
+<li>NVIDIA PhysX physics only available on the Linux version! </li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/shadowgrounds-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/shadowgrounds/">Demo for Shadowgrounds</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/shadowgrounds/" target="_blank">Updates for Shadowgrounds</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>DVD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.8 GHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 256 MB video memory and Shader Model 2.0 Support</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>800 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>1.2 GB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>

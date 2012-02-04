@@ -1,0 +1,94 @@
+==Preview==
+<p>Betrete die unheimliche Welt von Shadowgrounds und schiesse und sprenge Dich als bis an die Z&auml;hne bewaffneter Space-Marine durch blutr&uuml;nstige Alienhorden, die einen Aussenposten der Jupiter-Kolonie angegriffen haben.</p>
+
+==Text==
+<p><strong>Das Spiel</strong></p>
+<p>Im Weltraum h&ouml;rt Dich niemand schreien.... Betrete die unheimliche Welt von Shadowgrounds und schiesse und sprenge Dich als bis an die Z&auml;hne bewaffneter Space-Marine durch blutr&uuml;nstige Alienhorden, die einen Aussenposten der Jupiter-Kolonie angegriffen haben. Shadowgrounds ist ein einzigartiger 3D-Shooter aus der innovativen Top-Down-Perspektive, der Dich mit pausenloser Action, einem durchschlagskr&auml;ftigen Waffenarsenal, spektakul&auml;ren Bossfights und komplett zerst&ouml;rbarer Umgebung in ein faszinierendes Action-Inferno der Extraklasse katapultiert! Auf Deiner Mission z&auml;hlt jedoch nicht nur rohe Waffengewalt. Nutze den dynamischen Licht und Schattenwurf zu Deinem Vorteil aus. Richte Deine Taschenlampe direkt in die Augen eines Monsters und beobachte wie verschieden die Kreaturen auf das Licht reagieren....</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Erforsche 10 actiongeladene Level und k&auml;mpfe Dich durch einen d&uuml;steren SciFi-Horror-Thriller</li>
+<li>Entfessle die totale Zerst&ouml;rungskraft. Dein Arsenal aus aufr&uuml;stbaren Waffen l&auml;sst keine W&uuml;nsche offen! Nutze die vielen taktischen M&ouml;glichkeiten, indem Du z.B. Deine Minigun als station&auml;res Gesch&uuml;tz aufstellst oder mit dem Flammenwerfer punktgenau Feuerw&auml;nde legst.</li>
+<li>Extrem detaillierte 3D-Grafiken und atemberaubende Spezialeffekte vereinen klassische Arcade-Action mit modernster Ego-Shooter Technik.</li>
+<li>Aufwendig orchestrierter Soundtrack, packende Schockeffekte und zahlreiche Cutscenes in Kinoqualit&auml;t erzeugen G&auml;nsehaut-Feeling pur!</li>
+</ul>
+<ul>
+</ul>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/shadowgrounds-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch</td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/shadowgrounds/">Demo f&uuml;r Shadowgrounds</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/shadowgrounds/" target="_blank">Updates f&uuml;r Shadowgrounds</a></td>
+</tr>
+<tr>
+<td>Zustand</td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang</td>
+<td>DVD und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong>Minimale Systemanforderungen</strong></strong><strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>1.8 GHz x86 Processor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>hardwarebeschleunigte 3D-Grafikkarte mit 256MB Ram und korrekt installierten, funktionsf&auml;higen Treibern und Shader Model 2.0 Unterst&uuml;tzung</td>
+</tr>
+<tr>
+<td>Hauptspeicher</td>
+<td>800 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>1.2 GB</td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Laufwerk</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
