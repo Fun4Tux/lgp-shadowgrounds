@@ -39,11 +39,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/shadowgrounds/">Demo f&uuml;r Shadowgrounds</a><br /></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/shadowgrounds/">Demo f&uuml;r Shadowgrounds</a><br /></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/shadowgrounds/" target="_blank">Updates f&uuml;r Shadowgrounds</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/shadowgrounds/" target="_blank">Updates f&uuml;r Shadowgrounds</a></td>
 </tr>
 <tr>
 <td>Zustand</td>
